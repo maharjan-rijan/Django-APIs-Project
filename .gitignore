@@ -1,0 +1,4 @@
+.studentsdb.sqlite3
+./apis/__pycache__
+./personal_details/__pycache__
+./students/__pycache__
